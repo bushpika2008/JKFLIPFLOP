@@ -50,9 +50,12 @@ end
 endmodule
 ```
 # RTL LOGIC FOR FLIPFLOPS 
-<img width="960" height="563" alt="image" src="https://github.com/user-attachments/assets/233fcca7-5b5c-4470-9def-f4091f75928d" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-15 181658" src="https://github.com/user-attachments/assets/86a9efd1-33e0-4e82-a578-e7affc0f87e0" />
+
 # TIMING DIGRAMS FOR FLIP FLOPS 
-<img width="1063" height="658" alt="image" src="https://github.com/user-attachments/assets/5a337262-b0a1-472c-8fbd-ab5db76078f8" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-15 184103" src="https://github.com/user-attachments/assets/aac350f1-7a20-4f9e-8c2d-073e64fdee89" />
+
 # RESULTS
+Thus the program has been executed successfully.
 
 Thus the JK flipflop is implemented and verified.

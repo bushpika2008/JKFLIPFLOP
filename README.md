@@ -53,7 +53,7 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot 2025-12-15 181658" src="https://github.com/user-attachments/assets/86a9efd1-33e0-4e82-a578-e7affc0f87e0" />
 
 # TIMING DIGRAMS FOR FLIP FLOPS 
-<img width="1920" height="1080" alt="Screenshot 2025-12-15 184103" src="https://github.com/user-attachments/assets/aac350f1-7a20-4f9e-8c2d-073e64fdee89" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-15 184103" src="https://github.com/user-attachments/assets/fd4e0935-869b-4e99-bb78-55f039c2b81d" />
 
 # RESULTS
 Thus the program has been executed successfully.
